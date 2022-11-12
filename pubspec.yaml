@@ -2,7 +2,7 @@ name: flutter_social_login_widget
 description: A social login widget.
 homepage: https://github.com/coskuncay/flutter_social_login_widget
 repository: https://github.com/coskuncay/flutter_social_login_widget
-version: 1.0.0
+version: 1.1.0
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
